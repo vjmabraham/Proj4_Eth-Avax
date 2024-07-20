@@ -14,7 +14,7 @@ This program is a contract in Solidity, a programming program language used for 
 
 ## Deployment to Testnet
 
-* I deployed the contract in the Fuji Test Network. After deployment, I used[Snowtrace](https://testnet.snowtrace.io/) to check the state of my contract.
+* I deployed the contract in the Fuji Test Network. After deployment, I used [Snowtrace](https://testnet.snowtrace.io/) to check the state of my contract.
 
 ## Compiling and Deploying
 
